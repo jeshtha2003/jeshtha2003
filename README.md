@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">Hi 👋, I'm Jeshtha Taktewale</h1>
-<h3 align="center">A passionate frontend developer and ML enthuisam from India</h3>
+<h3 align="center">A passionate frontend developer and ML enthusiastic from India</h3>
 <img align ="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeshtha2003&label=Profile%20views&color=0e75b6&style=flat" alt="jeshtha2003" /> </p>
